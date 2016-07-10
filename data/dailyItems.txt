@@ -1,0 +1,13 @@
+{"date":"07/09/14",
+
+"sunrise":"5:17",
+
+"sunset":"18:29",
+
+"daylighthours":"13:12",
+
+"sunrise1":"5:19",
+
+"sunset1":"18:27",
+
+"daylighthours1":"13:08"}
